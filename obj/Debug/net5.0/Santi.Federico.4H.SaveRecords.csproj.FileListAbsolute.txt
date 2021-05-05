@@ -1,0 +1,16 @@
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\bin\Debug\net5.0\Santi.Federico.4H.SaveRecords.exe
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\bin\Debug\net5.0\Santi.Federico.4H.SaveRecords.deps.json
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\bin\Debug\net5.0\Santi.Federico.4H.SaveRecords.runtimeconfig.json
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\bin\Debug\net5.0\Santi.Federico.4H.SaveRecords.runtimeconfig.dev.json
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\bin\Debug\net5.0\Santi.Federico.4H.SaveRecords.dll
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\bin\Debug\net5.0\ref\Santi.Federico.4H.SaveRecords.dll
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\bin\Debug\net5.0\Santi.Federico.4H.SaveRecords.pdb
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\obj\Debug\net5.0\Santi.Federico.4H.SaveRecords.csprojAssemblyReference.cache
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\obj\Debug\net5.0\Santi.Federico.4H.SaveRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\obj\Debug\net5.0\Santi.Federico.4H.SaveRecords.AssemblyInfoInputs.cache
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\obj\Debug\net5.0\Santi.Federico.4H.SaveRecords.AssemblyInfo.cs
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\obj\Debug\net5.0\Santi.Federico.4H.SaveRecords.csproj.CoreCompileInputs.cache
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\obj\Debug\net5.0\Santi.Federico.4H.SaveRecords.dll
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\obj\Debug\net5.0\ref\Santi.Federico.4H.SaveRecords.dll
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\obj\Debug\net5.0\Santi.Federico.4H.SaveRecords.pdb
+C:\Users\PC06\Desktop\Santi.Federico.4H.SaveRecords\obj\Debug\net5.0\Santi.Federico.4H.SaveRecords.genruntimeconfig.cache
